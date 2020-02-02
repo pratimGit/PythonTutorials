@@ -2,7 +2,7 @@ test = " welcome"
 print("Hello Python"+ test)
 
 """""
-This is First Python Program 
+This is Python Program 
 """""
 name = " Binod "
 age  = 20
