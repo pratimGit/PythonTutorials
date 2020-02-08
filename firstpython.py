@@ -1,5 +1,3 @@
-test = " welcome"
-print("Hello Python"+ test)
 
 """""
 This is Python Program 
