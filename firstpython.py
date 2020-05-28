@@ -7,6 +7,9 @@ age  = 20
 cgpa = 4.1
 
 print( name + " is ", age , " years old and his cgpa", cgpa   )
+print("hello pratim")
+
+
 
 
 
